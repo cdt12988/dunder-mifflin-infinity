@@ -2,7 +2,7 @@
 
 Dunder-Mifflin Infinity is a Command Line Interface storefront application and content management system.  The app allows different users access to different areas of the application using a custom user authentication system.  The application tracks customer orders, stock inventory, and even performs some basic financial reporting.
 
-Video Tutorial: [https://www.youtube.com/watch?v=h1EW2qJPU7c&feature=youtu.be](https://www.youtube.com/watch?v=h1EW2qJPU7c&feature=youtu.be)
+Demo Video: [https://www.youtube.com/watch?v=h1EW2qJPU7c&feature=youtu.be](https://www.youtube.com/watch?v=h1EW2qJPU7c&feature=youtu.be)
 
 ![Screenshot](https://cdt12988.github.io/images/portfolio/dmi.jpg "Dunder-Mifflin Infinity Screenshot")
 
