@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon is a storefront CLI app",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdt12988/bamazon.git"
+  },
+  "author": "Cody Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdt12988/bamazon/issues"
+  },
+  "homepage": "https://github.com/cdt12988/bamazon#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "inquirer": "^6.2.0",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0",
+    "terminal-table": "0.0.12"
+  }
+}
